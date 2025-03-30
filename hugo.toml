@@ -1,8 +1,8 @@
-baseURL = 'https://filbot.com/'
-languageCode = 'en-us'
-title = 'Semicolons & Side Projects'
-theme = 'mini'
-googleAnalytics = 'G-P5HRT1QBKC'
+baseURL = "https://filbot.com/"
+languageCode = "en-us"
+title = "Semicolons & Side Projects"
+theme = "mini"
+googleAnalytics = "G-P5HRT1QBKC"
 
 [params]
 customJS = ["js/custom.js"]
